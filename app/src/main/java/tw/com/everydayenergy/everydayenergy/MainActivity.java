@@ -12,6 +12,10 @@ import android.view.MenuItem;
 import android.hardware.camera2.CameraManager;
 import android.hardware.camera2.CameraDevice;
 
+// reference https://inducesmile.com/android/android-camera2-api-example-tutorial/
+// reference https://github.com/pinguo-yuyidong/Camera2
+// reference http://jylee-world.blogspot.tw/2014/12/a-tutorial-of-androidhardwarecamera2.html
+
 public class MainActivity extends AppCompatActivity {
 
     // Used to load the 'native-lib' library on application startup.
