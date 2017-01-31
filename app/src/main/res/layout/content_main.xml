@@ -28,4 +28,26 @@
         android:layout_marginTop="15dp"
         android:id="@+id/textureView" />
 
+    <Button
+        android:text="@string/button_start"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="57dp"
+        android:layout_marginStart="57dp"
+        android:id="@+id/START"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <Button
+        android:text="@string/button_stop"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="39dp"
+        android:layout_marginStart="39dp"
+        android:id="@+id/STOP"
+        android:layout_alignParentBottom="true"
+        android:layout_toRightOf="@+id/START"
+        android:layout_toEndOf="@+id/START" />
+
 </RelativeLayout>

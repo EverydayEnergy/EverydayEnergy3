@@ -5,4 +5,6 @@
     <string name="error_field_required">field required</string>
     <string name="error_invalid_email">invalid email</string>
     <string name="error_incorrect_password">incorrect_password</string>
+    <string name="button_start">Button</string>
+    <string name="button_stop">Button</string>
 </resources>
