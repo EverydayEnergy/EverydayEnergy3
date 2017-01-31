@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permission_rationale">permission</string>
+    <string name="error_invalid_password">invalid password</string>
+    <string name="error_field_required">field required</string>
+    <string name="error_invalid_email">invalid email</string>
+    <string name="error_incorrect_password">incorrect_password</string>
+</resources>
